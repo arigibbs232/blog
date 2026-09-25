@@ -1,0 +1,23 @@
+.sidebar-my-image{
+	height: 200px;
+	width: 200px;
+}
+
+.sidebar-my-name{
+	text-align: center;
+}
+
+.sidebar-about-me{
+	text-align: center;
+	padding: 20px;
+	background-color: crimson;
+	color: white;
+}
+
+.sidebar-social-media{
+	background-color: coral;
+}
+
+.sidebar-social-icon{
+background-color: crimson;
+}

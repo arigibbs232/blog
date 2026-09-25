@@ -1,0 +1,100 @@
+/* =========== ABOUT ME SECTION =========== */
+/* Use this to style the about me image */
+.sidebar-my-image {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 4px black;
+}
+
+.sidebar-swap-pic{
+    height: 200px;
+    width: 200px;
+   display: none;
+}
+
+.sidebar-section:hover .sidebar-swap-pic{
+    display: block;
+}
+
+.sidebar-my-name{
+    text-align: center;
+    font-size: 24px;
+    font-family: "Georgia", "Times New Roman", serif;
+}
+
+.sidebar-about-me{
+    text-align: center;
+    padding: 20px;
+    background-color: mistyrose;
+    color: darkslategray;
+    font-family: "Georgia", Times, serif;
+}
+
+/* POSITION SOCIAL MEDIA ICONS */
+.sidebar-social-media{
+    padding: 5px;
+    text-align: center;
+  
+}
+
+/* SOCIAL MEDIA ICONS */
+.sidebar-social-icon{
+      display: inline-block;
+      color: black;
+      padding: 10px;
+      margin: 10px;
+     background-color: crimson;
+      border: 3px solid maroon;
+      border-radius: 5px;
+}
+
+
+/* =========== CTS SECTION =========== */
+
+/* CTS Image Logo */
+.sidebar-cts-logo{
+    width: 100%;
+}
+
+/* CTS LINK */
+.sidebar-cts-link{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: red;
+    border: 3px solid black;
+    padding: 20px;
+
+}
+
+
+/* =========== TAGS SECTION =========== */
+
+.sidebar-tag {
+    display: inline-block;
+    padding: 12px;
+    margin: 3px;
+    background-color: crimson;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+
+}
+
+
+.sidebar-tag:hover {
+    background-color: darkred;
+    color: ;
+    border-color: white;
+
+}
+
+.sidebar-title {
+    font-weight: bold;
+    font-family: Georhia, serif;
+}
+
